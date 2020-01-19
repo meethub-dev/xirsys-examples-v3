@@ -2,9 +2,9 @@
   "xirsys": {
     "gateway": "global.xirsys.net",
     "info": {
-      "ident": "< Your Account Ident >",
-      "secret": "< Your Account Secret >",
-      "channel": "< Your Account Channel Path >"
+      "ident": "daubanet",
+      "secret": "3399ab42-3add-11ea-8fb5-0242ac110004",
+      "channel": "MeeyhubOnline"
     },
     "allowedServices": ["/_token", "/_host", "/_data", "/_ns", "/_turn"],
     "overrideAllowedChannel": false,
@@ -29,4 +29,3 @@
     "db": "hosted"
   }
 }
-
